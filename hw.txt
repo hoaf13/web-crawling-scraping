@@ -1,0 +1,11 @@
+- Chuẩn hóa đầu ra 
+- gán nhãn từ loại 
+
+- đọc slide NLP thầy cho. + NLP book 
+
+- Text classification 
++ tìm hiểu bài toán Text Classification 
++ tìm hiểu dataset 
++ tìm hiểu thuật toán + Deep Learning 
+- Xây dựng hệ thống thử nghiệm 
+
